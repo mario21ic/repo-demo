@@ -3,4 +3,5 @@ node {
    echo 'Hello moto'
    echo 'Hello moto'
    echo 'Hello moto'
+   echo 'Hello moto xD'
 }

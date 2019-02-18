@@ -1,0 +1,16 @@
+#!/bin/sh
+
+remote="$1"
+url="$2"
+
+echo "echoxD"
+if [ $? != 0 ]; then
+  exit 1
+fi
+
+echo "unit_tests"
+if [ $? != 0 ]; then
+  exit 1
+fi
+
+exit 0
